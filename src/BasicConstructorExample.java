@@ -1,0 +1,12 @@
+/**
+ * Created by ASteezy1 on 6/22/15.
+ */
+public class BasicConstructorExample {
+
+    public static void main(String[] args) {
+        Stuff stuff1 = new Stuff();
+        Stuff stuff2 = new Stuff();
+        Stuff stuff3 = new Stuff();
+    }
+
+}
